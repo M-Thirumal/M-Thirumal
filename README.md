@@ -1,6 +1,6 @@
 # Hi, I'm Thirumal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'am+software+developer.;Network+Administrator.;Solutions+Architect+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'am+software+developer.;Data Modeler.;Solutions+Architect+Engineer.)](https://git.io/typing-svg)
 
 
 📫 How to reach me
