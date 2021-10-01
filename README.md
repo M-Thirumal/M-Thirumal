@@ -65,6 +65,12 @@
 </a>
 <a href="https://github.com/M-Thirumal/installation_guide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Thirumal&repo=installation_guide&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
+</a>   
+<a href="https://github.com/M-Thirumal/spring-boot-admin-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Thirumal&repo=spring-boot-admin-server&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
+</a>    
+<a href="https://github.com/M-Thirumal/spring-cloud-gateway">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Thirumal&repo=spring-cloud-gateway&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
 </a>    
 
 <br>
