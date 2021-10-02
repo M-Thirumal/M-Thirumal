@@ -2,19 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'am+software+developer.;Data+Modeler.;Solutions+Architect+Engineer.)](https://git.io/typing-svg)
 
-
-📫 How to reach me
+📫  How to reach me
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_thirumal) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirumalm/) [![YouTube](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/thirumal) 
-
 
 ![GitHub Follow](https://img.shields.io/github/followers/m-thirumal.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/m-thirumal?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 
-👨‍💻 My other profiles
+<!-- 👨‍💻 My other profiles
 
-<a href="https://github.com/m-thirumal"><img src="https://img.shields.io/github/followers/m-thirumal.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://github.com/m-thirumal"><img src="https://img.shields.io/github/followers/m-thirumal.svg?label=GitHub&style=social" alt="GitHub"></a> -->
 <!--[![Udemy](https://img.shields.io/badge/--dev?label=udemy&logo=udemy&style=social)](https://www.udemy.com/user/larry-bert-g-mahumot/)-->
 <!--[![AWS](https://img.shields.io/badge/--dev?label=amazon&logo=amazon&style=social)](https://www.aws.training/)-->
 <!--[![IBM](https://img.shields.io/badge/--dev?label=IBM&logo=IBM&style=social)](https://myibm.ibm.com/)-->
