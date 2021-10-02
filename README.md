@@ -1,4 +1,4 @@
-# Hi, I'm Thirumal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Name](https://img.shields.io/badge/Hi%20I'm-Thirumal-orange) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'am+software+developer.;Data+Modeler.;Solutions+Architect+Engineer.)](https://git.io/typing-svg)
 
@@ -39,8 +39,10 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Database](https://img.shields.io/badge/-Graph%20Database-333333?style=flat&logo=database)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -52,7 +54,7 @@
 ![Fork](https://img.shields.io/badge/-Fork-333333?style=flat&logo=fork)
 ![YAML](https://img.shields.io/badge/-YAML-333333)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
 
 
