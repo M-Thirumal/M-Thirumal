@@ -1,4 +1,4 @@
-![Name](https://img.shields.io/badge/Hi%20I'm-Thirumal-orange) 
+![Name](https://img.shields.io/badge/Hi,%20I'm-Thirumal-orange) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'am+software+developer.;Data+Modeler.;Solutions+Architect+Engineer.)](https://git.io/typing-svg)
 
