@@ -4,10 +4,11 @@
 
 📫  How to reach me
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_thirumal) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirumalm/) [![YouTube](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/thirumal) 
-
 [![](https://img.shields.io/badge/Mail-m.thirumal@hotmail.com-orange)](mailto:m.thirumal@hotmail.com?subject=[GitHub]) 
 [![](https://img.shields.io/badge/phone%20number-+918973697871-green)](tel:+91-8973697871)
+
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_thirumal) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirumalm/) [![YouTube](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/thirumal) 
+
 
 ![GitHub Follow](https://img.shields.io/github/followers/m-thirumal.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/m-thirumal?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
