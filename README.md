@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'am+Full+Stack+developer.;Data+Modeler;)](https://git.io/typing-svg)
 
-📫  How to reach me
+📫 How to reach me 📫 
 
 [![](https://img.shields.io/badge/Mail-m.thirumal@hotmail.com-orange)](mailto:m.thirumal@hotmail.com?subject=[GitHub]) 
 [![](https://img.shields.io/badge/phone%20number-+918973697871-green)](tel:+91-8973697871)
