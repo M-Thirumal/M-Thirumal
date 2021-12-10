@@ -89,14 +89,14 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{M-Thirumal}/count.svg" /></p> 
 <br></div> -->
 
-<p align="center">
+<!-- <p align="center">
 <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
-</p>
+</p> -->
 
 
 
 <!-- START NEW SECTION -->
-<div align="center">
+<!-- <div align="center">
  <br>
  <p align="centre"><b> Here is a random joke that'll mark your day!</b></p>
   
@@ -104,7 +104,7 @@
 
 <details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
 <br>
-</div>
+</div> -->
 
 
 
