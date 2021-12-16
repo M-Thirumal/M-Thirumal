@@ -60,7 +60,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
 
 
-
+<!--
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 
 |My github statistics|My languages||
@@ -82,6 +82,7 @@
 </a>    
 
 <br>
+-->
 
 <!-- START NEW SECTION -->
 <!-- <div align="center">
