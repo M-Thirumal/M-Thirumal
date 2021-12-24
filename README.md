@@ -1,6 +1,6 @@
 ![Name](https://img.shields.io/badge/Hi,%20I'm-Thirumal-orange) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'am+Full+Stack+developer.;Data+Modeler;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=0+1+2+3+4+5+6+7+8+9;Data+Modeler;)](https://git.io/typing-svg)
 
 📫 How to reach me 📫 
 
