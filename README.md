@@ -2,6 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=(91)8973697871;m.thirumal@hotmail.com;)](https://git.io/typing-svg)
 
+-----------------------------------------
+The air is bad....... Plant a tree. 🌳
+
+It is too hot.........Plant a tree. 🌴
+
+Our soils are damaged..Plant a tree🌲
+
+Too much wind.....Plant a tree.🌿
+
+Protect our water....Plant a tree.🌵
+
+Shortage of food....Plant a tree.🌾
+
+----------------------------------------
+
 📫 How to reach me 📫 
 
 [![](https://img.shields.io/badge/Mail-m.thirumal@hotmail.com-orange)](mailto:m.thirumal@hotmail.com?subject=[GitHub]) 
