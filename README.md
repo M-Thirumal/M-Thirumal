@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thirumal;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thirumal;)](https://git.io/typing-svg) 
 
 📫 How to reach me 📫 
 
@@ -20,9 +20,9 @@
 <!--[![CISCO](https://img.shields.io/badge/--dev?label=CISCO&logo=CISCO&style=social/)](https://www.netacad.com/)-->
 <!--[![MICROSOFT](https://img.shields.io/badge/--dev?label=Microsoft&logo=Microsoft&style=social/)](https://www.training.nttdataph.com/)-->
 
-### :octocat: Open Source
+<!-- ### :octocat: Open Source
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/m-thirumal) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/m-thirumal) [![PRs Welcome](https://komarev.com/ghpvc/?username=m-thirumal&label=Profile%20views%20from%2002-10-2021&color=0e75b6&style=flat)](https://github.com/m-thirumal)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/m-thirumal) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/m-thirumal)  -->
 
 <!--
 ### :hugs: Thank you so much for visiting my tiny space on [GitHub](https://github.com/m-thirumal)! :v:
