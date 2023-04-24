@@ -2,26 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=(91)8973697871;m.thirumal@hotmail.com;)](https://git.io/typing-svg)
 
------------------------------------------
-The air is bad....... Plant a tree. 🌳
-
-It is too hot.........Plant a tree. 🌴
-
-Our soils are damaged..Plant a tree🌲
-
-Too much wind.....Plant a tree.🌿
-
-Protect our water....Plant a tree.🌵
-
-Shortage of food....Plant a tree.🌾
-
-----------------------------------------
+* The air is bad....... Plant a tree. 🌳 
+* It is too hot.........Plant a tree. 🌴 
+* Our soils are damaged..Plant a tree 🌲
+* Too much wind.....Plant a tree.🌿
+* Protect our water....Plant a tree.🌵
+* Shortage of food....Plant a tree.🌾
 
 📫 How to reach me 📫 
 
 [![](https://img.shields.io/badge/Mail-m.thirumal@hotmail.com-orange)](mailto:m.thirumal@hotmail.com?subject=[GitHub]) 
 [![](https://img.shields.io/badge/phone%20number-+918973697871-green)](tel:+91-8973697871)
-
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_thirumal) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirumalm/) [![YouTube](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/thirumal) 
 
 <!-- 
